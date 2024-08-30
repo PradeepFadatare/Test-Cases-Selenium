@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/prade/IdeaProjects/Mds_Woocommerce/src/test/java/Tests">
+        <classes>
+            <class name="Tests.DashBoard">
+            </class>
+            <class name="Tests.MyAccount"></class>
+            <class name="Tests.AccountDetails"></class>
+            <class name="Tests.AddToCart"></class>
+            <class name="Tests.Addresses"></class>
+            <class name="Tests.ContactUs"></class>
+            <class name="Tests.Footer"></class>
+            <class name="Tests.Orders"></class>
+            <class name="Tests.DashBoard"></class>
+            <class name="Tests.MdsIndustriesCorp"></class>
+            <class name="Tests.MostPopularBrand"></class>
+            <class name="Tests.PaymentMethod"></class>
+            <class name="Tests.SearchFunctionality"></class>
+            <class name="Tests.TrackYourOrder"></class>
+        </classes>
+    </test>
+</suite>
